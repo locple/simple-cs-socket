@@ -24,7 +24,7 @@ Note: click **Allow access** when *Windows Defender Firewall* asks.
 <br>
 
 #### Guide to compile and run C/C++ programs on Windows:
-Make sure you have: ***gcc/g++*** and ***ws2_32.lib*** installed on Windows (I use **[TDM64-GCC](https://sourceforge.net/projects/tdm-gcc/)**) with the PATH pointed to it.  
+Make sure you have: ***gcc/g++*** and ***ws2_32.lib*** installed on Windows (I use **[TDM64-GCC]([https://sourceforge.net/projects/tdm-gcc/](https://jmeubank.github.io/tdm-gcc/))**) with the PATH pointed to it.  
 Open CMD window, change to *simple-socket* folder and run following command lines:  
 ```
 g++ -o CTcpClient CTcpClient.cpp -lws2_32
