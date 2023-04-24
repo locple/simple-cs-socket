@@ -1,4 +1,4 @@
-# Simple socket demo in C & C#
+# Simple socket demo in C and C#
 Simple C# program for TCP socket client-server demo
 
 Simple TCP socket programming demo written by *C#* & *C/C++* languages.
