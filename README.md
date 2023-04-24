@@ -1,4 +1,4 @@
-# simple-socket
+# Simple socket demo in C/C++ & C#
 Simple C# program for TCP socket client-server demo
 
 Simple TCP socket programming demo written by *C#* & *C/C++* languages.
@@ -42,4 +42,4 @@ g++ -o CTcpServer CTcpServer.cpp
 ```
 Run CTcpServer and CTcpClient in seperate shells.  
 <br>
-Good luck!! 💙
+Having fun programming!! 💙
